@@ -7,15 +7,6 @@ This repository showcases web development projects by Parul Saini.
 - **index.html**: Main HTML file.
 - **styles.css**: CSS file for styling.
 
-## Setup Instructions
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    ```
-
-2. Open `index.html` in a web browser.
 
 ## Responsive Design
 
